@@ -13,7 +13,8 @@ int main(){
 
     Eigen::Vector3f v(2.0f,1.0f,1.0f);
     Eigen::Matrix3f m;
-    m << std::cos(45.0), -std::sin(45.0), 1.0, std::sin(45.0), std::cos(45.0), 2.0, 0.0, 0.0, 1.0;
+    float arc = M_PI_4;
+    m << std::cos(arc), -std::sin(arc), 1.0, std::sin(arc), std::cos(arc), 2.0, 0.0, 0.0, 1.0;
     // matrix output
     v = m*v;
 
