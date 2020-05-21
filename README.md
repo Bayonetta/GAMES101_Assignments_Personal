@@ -16,3 +16,7 @@
 论坛：[GAMES在线课程（现代计算机图形学入门）讨论区](http://games-cn.org/forums/forum/graphics-intro/) （发布作业+讨论）
 
 作业提交系统：[Login at SmartChair](http://www.smartchair.org/GAMES2020Course-YLQ/) （仅2020年2月9日~5月30日间有效）
+
+
+
+Running Platform: Mac OS 10.15
